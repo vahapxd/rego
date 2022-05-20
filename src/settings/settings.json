@@ -1,0 +1,15 @@
+{
+    "guild": {
+        "id": "976140150448979999",
+        "tagges": ["∞"],
+        "defaultTag": "∞",
+        "nameTag": "∞"
+    },
+    "bot": {
+        "owners": ["919663047923101736"],
+        "prefix": ".",
+        "mongoURL": "mongodb+srv://rencia:Vahap2020@cluster0.1rmfm.mongodb.net/?retryWrites=true&w=majority",
+        "activity": "Adelicia 💚 Rencia",
+        "token": "OTc2NTc1NTQyMzYwOTU2OTg4.Gc4a0X.v0ehkMtsfdHJktT1MXD2hsnFgIm2OgDRcllMyI"
+    }
+}
